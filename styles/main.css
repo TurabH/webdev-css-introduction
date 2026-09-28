@@ -1,0 +1,48 @@
+
+      body{
+
+        font-family:Arial, Helvetica, sans-serif;
+
+        background-color : #c2fbff;
+        
+
+
+      }
+
+      h1{
+
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+        text-align: center;
+
+
+      }
+
+
+
+
+      .red{
+
+
+
+        color : red;
+      }
+
+      
+      
+      li{
+
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+        color : blue
+        
+
+
+
+      }
+
+
+      .container{
+
+        width : 800px;
+        margin:auto;    
+      }
